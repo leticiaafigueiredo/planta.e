@@ -1,0 +1,67 @@
+
+.rate {
+    color: red;
+}
+
+
+#productImage{
+    width: 300px !important ;
+}
+
+#map {
+    height: 400px;
+}
+
+.mapboxgl-popup-content{
+    height: 270px;
+}
+
+#carouselExampleCaptions{
+    height:500px;
+    width: 700px;
+}
+
+.favoritos{
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+}
+
+#divDestaques{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
+
+.ritos{
+    margin-top: 0;
+    margin-left: 60px;
+}
+
+#fotosSection{
+    justify-content: space-evenly;
+}
+
+.container-carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.carousel-textModal{
+    background-color: aliceblue;
+    color: black;
+}
+
+.carousel-text {
+    color:black;
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+.carousel-title{
+    color: black;
+    font-size: 30px;
+    background-color: aliceblue;
+}
